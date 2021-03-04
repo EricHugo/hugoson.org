@@ -15,12 +15,6 @@ body{
     top:50vh;
 }
 
-.context h1{
-    text-align: center;
-    color: #fff;
-    font-size: 50px;
-}
-
 .area{
     background: #5c7f91;  
     background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
