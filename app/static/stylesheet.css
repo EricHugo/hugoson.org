@@ -9,6 +9,8 @@
 body{
     font-family: 'Exo', sans-serif;
     color: #cfd8dc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1 {
@@ -100,9 +102,9 @@ a:hover {
     text-align: center;
     padding: 2rem;
     border-top: 2px solid #222;
-    background: linear-gradient(top, #333  0%, #45454f 2%);
-    background: -ms-linear-gradient(top, #333  0%, #45454f 2%);
-    background: -moz-linear-gradient(top, #333  0%, #45454f 2%);
+    background: linear-gradient(top, #333  0%, #343e4a 2%);
+    background: -ms-linear-gradient(top, #333  0%, #343e4a 2%);
+    background: -moz-linear-gradient(top, #333  0%, #343e4a 2%);
     background: -webkit-linear-gradient(top, #222  0%, #343e4a 3%);
 }
 
@@ -121,9 +123,8 @@ a:hover {
 
 .area{
     background: #262834;  
-    background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
     width: 100%;
-    height:100vh;
+    height: 100vh;
 }
 
 .circles{
