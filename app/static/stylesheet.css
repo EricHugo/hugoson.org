@@ -24,6 +24,7 @@ h1 {
 .bbody {
     font-family: 'Exo', sans-serif;
     color: #90a4ae;
+    padding-bottom: 1rem;
 }
 
 h3 {
@@ -62,6 +63,7 @@ ul {
 }
 
 .section {
+    overflow: auto;
 }
 
 .contact {
@@ -102,6 +104,8 @@ ul {
     background-color: #343e4a;
     box-sizing: border-box;
     padding: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
     box-shadow: 0px 0px 5px #111;
     z-index: 9;
 }
