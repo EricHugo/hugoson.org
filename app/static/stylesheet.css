@@ -18,11 +18,31 @@ h1 {
 
 .name {
     padding-bottom: 2rem;
+    padding-top: 1rem;
 }
 
 .bbody {
     font-family: 'Exo', sans-serif;
     color: #90a4ae;
+}
+
+h3 {
+    padding-bottom: 1rem;
+    color: goldenrod;
+}
+
+h4 {
+    font-family: 'Exo', sans-serif;
+    color: goldenrod;
+}
+
+ul {
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 4;
+    column-gap: 20px;
 }
 
 .context {
