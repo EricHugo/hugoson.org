@@ -46,6 +46,15 @@ ul {
     column-gap: 20px;
 }
 
+a {
+    color: goldenrod;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gold;
+}
+
 .context {
     width: 100%;
     position: absolute;
