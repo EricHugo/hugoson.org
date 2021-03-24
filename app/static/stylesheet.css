@@ -61,6 +61,11 @@ table, th, td {
   padding: 10px;
 }
 
+.iconify { 
+    width: 19px;
+    height: 19px;
+}
+
 .context {
     width: 100%;
     position: absolute;
