@@ -1,0 +1,6 @@
+# test config file
+flask.sh
+
+
+# compiled python
+*.pyc
