@@ -57,6 +57,10 @@ a:hover {
     color: gold;
 }
 
+th, td {
+  padding: 10px;
+}
+
 .context {
     width: 100%;
     position: absolute;
@@ -76,6 +80,7 @@ a:hover {
 .section {
     overflow: auto;
 }
+
 
 .contact {
     width: 400px;
