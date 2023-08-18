@@ -3,7 +3,7 @@
 ================
 
 
-- Eric Hugoson (eric@hugoson.org / eric.hugoson@lns.etat.lu / @e_hugoson)
+- Eric Hugoson (eric@hugoson.org / eric.hugoson@gu.se / @e_hugoson)
 
 Description
 --------------
